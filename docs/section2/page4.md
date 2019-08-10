@@ -1,3 +1,7 @@
+---
+showToc: false
+---
+
 # Page 4 (xxx)
 
 ## xxx 1
