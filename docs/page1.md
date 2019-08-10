@@ -1,13 +1,75 @@
 # Before Getting Started...
 
-## T1
+## Step 1
 
+(no two trailing spaces)  
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
+blarblar 1
 blarblar 1
 
-## T2
+(with two trailing spaces)  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+blarblar 1  
+
+## Step 2
 
 test
 
-## T3
+## Step 3
 
 test
